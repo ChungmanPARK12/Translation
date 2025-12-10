@@ -5,7 +5,7 @@
 ## 📰 **Original Text (Image)**
 *(Click to enlarge)*
 
-<img width="940" height="1161" alt="Image" src="https://github.com/user-attachments/assets/0025f15a-6d10-46f6-9004-9583be21bbd3" />
+<img width="640" height="700" alt="Image" src="https://github.com/user-attachments/assets/0025f15a-6d10-46f6-9004-9583be21bbd3" />
 
 ---
 
