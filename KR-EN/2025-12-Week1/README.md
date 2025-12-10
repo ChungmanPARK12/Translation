@@ -9,20 +9,20 @@
 
 ---
 
-## 🇺🇸 **English Translation**
+## **English Translation**
 
 ### **Headline & Byline**
 - **“AI Doesn’t Lock In Data”… Oracle Unveils an Open Database Strategy [Oracle AI World]**
 - **Reporter:** Lee Anna  
 - **Published:** October 16, 2025, 7:00 AM  
-- **Event Photo Description:**  
+- **Event Photo Description:** [Interview] Cetin Ozbutun, Executive Vice President of Autonomous Database Technology at Oracle  
   Cetin Ozbutun, Executive Vice President of Autonomous Database Technology at Oracle, speaks with Korean reporters during the “Oracle AI World 2025” event held in Las Vegas, United States.
 
 ---
 
 ## 📰 **Original Text (Image)**
 
-<img width="940" height="185" alt="Image" src="https://github.com/user-attachments/assets/7f38cf36-2c7f-42e0-974f-b826c8b3efb2" />
+<img width="640" height="185" alt="Image" src="https://github.com/user-attachments/assets/7f38cf36-2c7f-42e0-974f-b826c8b3efb2" />
 
 ---
 
