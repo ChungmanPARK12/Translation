@@ -5,7 +5,7 @@
 ## 📰 **Original Text (Image)**
 *(Click to enlarge)*
 
-<img width="640" height="700" alt="Image" src="https://github.com/user-attachments/assets/0025f15a-6d10-46f6-9004-9583be21bbd3" />
+<img width="600" height="700" alt="Image" src="https://github.com/user-attachments/assets/0025f15a-6d10-46f6-9004-9583be21bbd3" />
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🇺🇸 **English Translation**
+## **English Translation**
 
 Oracle has been focusing not only on data integration but also on enhancing performance.  
 The **“Data Lake Accelerator”** is a serverless technology that automatically processes large volumes of data in parallel, improving scalability.
