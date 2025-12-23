@@ -1,4 +1,4 @@
-# 🌍 Chungman PARK – Professional Translator  
+# Chungman PARK – Professional Translator  
 **English ↔ Korean Specialist**
 
 **Email**: parkssi12@gmail.com  
