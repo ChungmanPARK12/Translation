@@ -1,9 +1,9 @@
 # Chungman PARK  
 **English ↔ Korean Translator | Technical & Media-Focused**
 
-Location: Australia  
-Email: parkssi12@gmail.com  
-LinkedIn: https://www.linkedin.com/in/chungman-park-363703178    
+**Location**: Australia  
+**Email**: parkssi12@gmail.com  
+**LinkedIn**: https://www.linkedin.com/in/chungman-park-363703178    
 
 ---
 
@@ -19,7 +19,7 @@ My translation work focuses on:
 
 ## Core Translation Skills
 
-- **Language Pair**: English ↔ Korean (Native-level Korean)
+- **Language Pair**: English ↔ Korean (Native Korean)
 - **Translation Domains**:
   - Technology & IT-related content
   - Engineering & technical documentation
