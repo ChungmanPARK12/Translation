@@ -19,10 +19,15 @@ My translation work focuses on:
 
 ## Core Translation Skills
 
-- **Language Pair**: English ↔ Korean (Native Korean)
+- **Language Pair**: English ↔ Korean (Native-level Korean)
+
+- **Technical Background**:
+  - **Information Technology (IT)**  
+    Software-related content, system explanations, and general IT documentation  
+  - **Automation & Robotics Engineering**  
+    Industrial automation systems, robotics-related documentation, and mechanical-technical materials
+
 - **Translation Domains**:
-  - Technology & IT-related content
-  - Engineering & technical documentation
   - News articles & journalism
   - Academic-style essays
   - Video scripts & subtitle translation
