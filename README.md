@@ -3,7 +3,6 @@
 
 **Location**: Australia  
 **Email**: parkssi12@gmail.com  
-**LinkedIn**: https://www.linkedin.com/in/chungman-park-363703178    
 
 ---
 
