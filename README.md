@@ -1,50 +1,48 @@
-# Chungman PARK – Professional Translator  
-**English ↔ Korean Specialist**
+# Chungman PARK  
+**English ↔ Korean Translator | Technical & Media-Focused**
 
-**Email**: parkssi12@gmail.com  
-**Phone**: +61 411 369 270  
-**LinkedIn**: [linkedin.com/in/chungman-park-363703178](https://www.linkedin.com/in/chungman-park-363703178)
-
----
-
-## About Me
-
-Hello! I’m **Chungman Park**, a passionate and detail-oriented translator based in Australia with extensive experience translating between **English and Korean**.
-
-My work spans a variety of domains including:
-- **Information Technology**
-- **Mechanical Engineering**
-- **Academic Essays**
-- **News Articles**
-- **Multimedia/Video Content**
-
-I am dedicated to delivering translations that are:
-- **Accurate**
-- **Culturally appropriate**
-- **Contextually meaningful**
-
-I pride myself on my **flexibility**, **efficiency**, and **commitment** to quality — always aiming to meet the unique needs of each client with precision and professionalism. 
+Location: Australia  
+Email: parkssi12@gmail.com  
+LinkedIn: https://www.linkedin.com/in/chungman-park-363703178    
 
 ---
 
-## Skills
+## Professional Profile
 
-- **Languages**: English, Korean  
-- **Specializations**:
-  - Technical Translation
-  - Academic Essays
-  - Formal Documents
-  - News & Journalism
-  - Subtitling / Video Translations
+I am a professional **English ↔ Korean translator** specializing in **technical and media-focused content**.
+
+My translation work focuses on:
+- **Clear, precise meaning**
+- **Natural, context-appropriate phrasing for real-world audiences**
 
 ---
 
-## Sample Work
+## Core Translation Skills
 
-- **Essay Translation** – [View Sample](samples/Essay/README.md)  
-- **News Article Translation** – [View Sample](samples/Article/README.md)  
-- **Video Translation / Subtitles** – [View Sample](samples/Video/README.md)
+- **Language Pair**: English ↔ Korean (Native-level Korean)
+- **Translation Domains**:
+  - Technology & IT-related content
+  - Engineering & technical documentation
+  - News articles & journalism
+  - Academic-style essays
+  - Video scripts & subtitle translation
 
 ---
 
-*I look forward to collaborating with you on your next translation project!*
+## Selected Translation Samples
+
+- **Essay Translation**  
+  Academic and analytical writing samples  
+  → [View Samples](samples/Essay/README.md)
+
+- **News Article Translation**  
+  Professional news-style translations  
+  → [View Samples](samples/Article/README.md)
+
+- **Video Translation / Subtitles**  
+  Scripted and spoken-content translations  
+  → [View Samples](samples/Video/README.md)
+
+---
+
+
