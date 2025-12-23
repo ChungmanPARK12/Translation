@@ -21,13 +21,16 @@ My translation work focuses on:
 
 - **Language Pair**: English ↔ Korean (Native-level Korean)
 
-- **Technical Background**:
+- **Technical Background (for Technical Translation)**:  
+  Used to accurately interpret terminology, system behavior, and technical context in translation.
+
   - **Information Technology (IT)**  
     Software-related content, system explanations, and general IT documentation  
+
   - **Automation & Robotics Engineering**  
     Industrial automation systems, robotics-related documentation, and mechanical-technical materials
 
-- **Translation Domains**:
+- **Translation Experience**:
   - News articles & journalism
   - Academic-style essays
   - Video scripts & subtitle translation
