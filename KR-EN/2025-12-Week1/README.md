@@ -1,17 +1,25 @@
-## 📰 **Original Text (Image)**
+<div align="center">
+
+## 📰 Original Text (Image)
 
 <img width="600" alt="Original Korean article image" src="https://github.com/user-attachments/assets/0025f15a-6d10-46f6-9004-9583be21bbd3" />
 
+</div>
+
 ---
 
-## 🇺🇸 **English Translation**
+<div align="center">
 
-### **Headline & Byline**
+## 🇺🇸 English Translation
+
+</div>
+
+### Headline & Byline
 - **“AI Doesn’t Lock In Data”… Oracle Introduces an Open Database Strategy [Oracle AI World]**
 - **Reporter:** Lee Anna  
 - **Published:** October 16, 2025 · 7:00 AM  
 
-### **Photo Description**
+### Photo Description
 **[Interview] Cetin Ozbutun, Executive Vice President of Autonomous Database Technology at Oracle**  
 Cetin Ozbutun, Executive Vice President of Autonomous Database Technology at Oracle,  
 speaks with Korean journalists during the “Oracle AI World 2025” event,  
@@ -19,13 +27,17 @@ held in Las Vegas, United States.
 
 ---
 
-### **Original Text (Excerpt Image)**
+<div align="center">
+
+### Original Text (Excerpt Image)
 
 <img width="640" height="185" alt="Original Korean text excerpt" src="https://github.com/user-attachments/assets/7f38cf36-2c7f-42e0-974f-b826c8b3efb2" />
 
+</div>
+
 ---
 
-### 🇺🇸 **English Translation (Excerpt)**
+### 🇺🇸 English Translation (Excerpt)
 
 Oracle has been focusing not only on data integration  
 but also on enhancing performance.
@@ -45,7 +57,7 @@ compared to previous benchmarks.
 
 ---
 
-## 🔍 **Key Expressions & Translation Decisions**
+## 🔍 Key Expressions & Translation Decisions
 
 | Original Expression | English Rendering | Decision Rationale |
 |--------------------|------------------|--------------------|
