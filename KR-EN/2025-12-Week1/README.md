@@ -1,3 +1,6 @@
+> *This sample demonstrates the translation of enterprise-level database technology content  
+> for a Korean technology news outlet, focusing on accuracy, clarity, and journalistic tone.*
+
 <div align="center">
 
 ## Original Text (Image)
@@ -10,7 +13,7 @@
 
 <div align="center">
 
-## 🇺🇸 English Translation
+## English Translation
 
 </div>
 
@@ -57,12 +60,13 @@ compared to previous benchmarks.
 
 ---
 
-## Key Expressions & Translation Decisions
+## 🔍 Key Expressions & Translation Notes
 
-| Original Expression | English Rendering | Decision Rationale |
-|--------------------|------------------|--------------------|
-| 대용량 데이터 | large volumes of data | Neutral and standard term in IT journalism |
-| 병렬 처리 | process in parallel | Verb phrase preferred over the noun form in explanatory contexts |
-| 데이터를 미리 불러와 캐싱 | preloading and caching data | Accurately reflects Exadata caching behavior |
-| 5배 빠른 성능 향상 | fivefold improvement in performance | Formal and article-appropriate phrasing |
-| 반복 조회 속도 높였다 | enhances repeated query performance | Common wording in database performance reporting |
+| Original Expression | English Rendering | Note |
+|--------------------|------------------|------|
+| 대용량 데이터 | large volumes of data | Standard phrasing in IT news and technical writing |
+| 병렬 처리 | process in parallel | Keeps the sentence natural in explanatory contexts |
+| 미리 불러와 캐싱 | preloading and caching | Common wording in database performance discussions |
+| 5배 빠른 성능 향상 | fivefold improvement in performance | Formal, article-appropriate expression |
+
+---

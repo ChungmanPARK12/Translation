@@ -42,11 +42,11 @@ I use AI tools as part of my workflow to support **consistency** and **terminolo
 
 Here’s how I keep things accurate and trustworthy:
 
-- I first create my own draft based on the original text.  
-- Then I use AI to compare nuance options and check alternative expressions.  
-- For unclear or tricky phrases, I run quick Google searches to confirm if certain terms are actually used in real-world contexts.  
-- Since machine translation isn’t perfect, I never rely on it 100%.  
-- Every decision — vocabulary, tone, and final phrasing — is manually reviewed and refined for clarity and natural flow.
+- I first create my own draft based on the original text
+- Then I use AI to compare nuance options and check alternative expressions
+- For unclear or tricky phrases, I run quick Google searches to confirm if certain terms are actually used in real-world contexts
+- Since machine translation isn’t perfect, I never rely on it 100%
+- Every decision — vocabulary, tone, and final phrasing — is manually reviewed and refined for clarity and natural flow
 
 This approach helps me deliver translations that are **accurate, natural, and dependable** for clients.
 
@@ -71,7 +71,7 @@ This approach helps me deliver translations that are **accurate, natural, and de
 ## Translation History
 
 My ongoing translation sample work is archived in the  
-**KR-EN** and **EN-KR** directories of this repository.
+**KR-EN** and **EN-KR** directories of this repository
 
 - Samples are updated **weekly**
 - Update dates reflect my continuous translation activity
