@@ -39,6 +39,7 @@ My translation work focuses on:
 ## How I Work (Quality & Reliability)
 
 I use AI tools as part of my workflow to support **consistency** and **terminology** checks, while all translation decisions are made manually.
+
 Here’s how I keep things accurate and trustworthy:
 
 - I first create my own draft based on the original text.  
