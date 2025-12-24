@@ -1,6 +1,6 @@
 <div align="center">
 
-## 📰 Original Text (Image)
+## Original Text (Image)
 
 <img width="600" alt="Original Korean article image" src="https://github.com/user-attachments/assets/0025f15a-6d10-46f6-9004-9583be21bbd3" />
 
@@ -29,7 +29,7 @@ held in Las Vegas, United States.
 
 <div align="center">
 
-### Original Text (Excerpt Image)
+### Original Text (Image)
 
 <img width="640" height="185" alt="Original Korean text excerpt" src="https://github.com/user-attachments/assets/7f38cf36-2c7f-42e0-974f-b826c8b3efb2" />
 
@@ -37,7 +37,7 @@ held in Las Vegas, United States.
 
 ---
 
-### 🇺🇸 English Translation (Excerpt)
+### English Translation 
 
 Oracle has been focusing not only on data integration  
 but also on enhancing performance.
@@ -57,7 +57,7 @@ compared to previous benchmarks.
 
 ---
 
-## 🔍 Key Expressions & Translation Decisions
+## Key Expressions & Translation Decisions
 
 | Original Expression | English Rendering | Decision Rationale |
 |--------------------|------------------|--------------------|
