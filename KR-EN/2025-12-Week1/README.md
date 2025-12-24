@@ -1,8 +1,5 @@
-# 📘 [Chungman PARK] — Korean → English Translation Sample
 
----
-
-## 📰 **Original Text (Image)**
+## **Original Text (Image)**
 *(Click to enlarge)*
 
 <img width="600" height="700" alt="Image" src="https://github.com/user-attachments/assets/0025f15a-6d10-46f6-9004-9583be21bbd3" />
@@ -22,7 +19,7 @@ Cetin Ozbutun, Executive Vice President of Autonomous Database Technology at Ora
 
 ---
 
-## 📰 **Original Text (Image)**
+## **Original Text (Image)**
 
 <img width="640" height="185" alt="Image" src="https://github.com/user-attachments/assets/7f38cf36-2c7f-42e0-974f-b826c8b3efb2" />
 
@@ -39,7 +36,7 @@ According to Ozbutun, internal tests confirmed **up to a fivefold improvement in
 
 ---
 
-## ✏️ **Key Expressions & Notes**
+## **Key Expressions & Notes**
 
 | Original Expression | English Rendering | Note |
 |--------------------|------------------|------|
@@ -51,10 +48,5 @@ According to Ozbutun, internal tests confirmed **up to a fivefold improvement in
 
 ---
 
-## 🧠 **Translator’s Insight**
 
-- 기술 뉴스 특유의 **간결함·정확성·전문 용어 사용의 일관성**을 유지하는 데 중점을 두었습니다.  
-- “반복 조회 속도” 표현은 직역보다 **query performance** 계열로 조정하여  
-  데이터베이스 문맥에서 가장 자연스러운 형태로 번역했습니다.  
-- “5배 빠른 성능 향상” 역시 일반 기사 스타일에 맞춰 **fivefold improvement** 형태로 정리해 자연스러운 흐름을 확보했습니다.
 

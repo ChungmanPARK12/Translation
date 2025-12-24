@@ -1,8 +1,5 @@
-# 📘 [Chungman PARK] — Week2
 
----
-
-## 📰 **Original Text (Image)**
+## **Original Text (Image)**
 *(Click to enlarge)*
 
 <img width="600" height="700" alt="Image" src="https://github.com/user-attachments/assets/0025f15a-6d10-46f6-9004-9583be21bbd3" />
@@ -22,7 +19,7 @@ Cetin Ozbutun, Executive Vice President of Autonomous Database Technology at Ora
 
 ---
 
-## 📰 **Original Text (Image)**
+## **Original Text (Image)**
 
 <img width="640" height="185" alt="Image" src="https://github.com/user-attachments/assets/7f38cf36-2c7f-42e0-974f-b826c8b3efb2" />
 
@@ -39,7 +36,7 @@ According to Ozbutun, internal tests confirmed **up to a fivefold improvement in
 
 ---
 
-## ✏️ Key Expressions & Notes
+## Key Expressions & Notes
 
 | Korean Expression | English Rendering | Quick Note |
 |------------------|------------------|------------|
@@ -51,17 +48,6 @@ According to Ozbutun, internal tests confirmed **up to a fivefold improvement in
 
 ---
 
-## 🔧 How I Work (Quality & Reliability)
 
-I use AI tools as part of my workflow — not to translate for me, but to support the process.  
-Here’s how I keep things accurate and trustworthy:
-
-- I first create my own draft based on the original text.  
-- Then I use AI to compare nuance options and check alternative expressions.  
-- For unclear or tricky phrases, I run quick Google searches to confirm if certain terms are actually used in real-world contexts.  
-- Since machine translation isn’t perfect, I never rely on it 100%.  
-- Every decision — vocabulary, tone, and final phrasing — is manually reviewed and refined for clarity and natural flow.
-
-This approach helps me deliver translations that are **accurate, natural, and dependable** for clients.
 
 
