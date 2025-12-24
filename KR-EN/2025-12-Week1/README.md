@@ -5,10 +5,10 @@
     <th align="left">US English Translation</th>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <img 
+    <td width="50%">
+      <img
         src="https://github.com/user-attachments/assets/0025f15a-6d10-46f6-9004-9583be21bbd3"
-        width="520"
+        style="width:100%; max-width:600px;"
         alt="Original article image"
       />
     </td>
@@ -25,6 +25,7 @@
     </td>
   </tr>
 </table>
+
 
 ## **Original Text (Image)**
 
