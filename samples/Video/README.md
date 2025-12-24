@@ -2,7 +2,7 @@
 
 # Long-form Subtitle Project (Detail Only)  
 
-**Goblin (Episode 1)**  
+**Goblin (Episode 1) - k-drama**  
 
 - Full episode **English subtitle translation** (Korean → English)  
 - Subtitles created using **ATS Scriptway**  
@@ -18,4 +18,4 @@
 
 ![Image](https://github.com/user-attachments/assets/caf36991-926c-497a-a296-ca0678f2233a)
 
-https://github.com/user-attachments/assets/dafab7e4-38fd-403f-8e5f-a57996edd370
+https://github.com/user-attachments/assets/e69dd1e3-843d-4ed3-9dbc-b3fcfc45c5eb
