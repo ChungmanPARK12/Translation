@@ -18,13 +18,13 @@ My translation work focuses on:
 
 ## Core Translation Skills
 
-- **Language Pair**: English ↔ Korean (Native-level Korean)
+- **Language Pair**: English ↔ Korean
 
 - **Technical Background (for Technical Translation)**:  
-  Used to accurately interpret terminology, system behavior, and technical context in translation.
+  Used to accurately interpret terminology, system behavior, and technical context in translation
 
   - **Information Technology (IT)**  
-    Software-related content, system explanations, and general IT documentation  
+    Software-related content, system explanations, and general IT documentation
 
   - **Automation & Robotics Engineering**  
     Industrial automation systems, robotics-related documentation, and mechanical-technical materials
@@ -74,7 +74,7 @@ My ongoing translation sample work is archived in the
 **KR-EN** and **EN-KR** directories of this repository.
 
 - Samples are updated **weekly**
-- Update dates reflect my continuous translation activity.
+- Update dates reflect my continuous translation activity
 
 ---
 
