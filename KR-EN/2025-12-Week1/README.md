@@ -2,17 +2,17 @@
 <table>
   <tr>
     <th align="left">Original Text (Image)</th>
-    <th align="left">🇺🇸 English Translation</th>
+    <th align="left">US English Translation</th>
   </tr>
   <tr>
-    <td width="45%">
+    <td width="50%" align="center">
       <img 
-        src="https://github.com/user-attachments/assets/0025f15a-6d10-46f6-9004-9583be21bbd3" 
-        width="420"
+        src="https://github.com/user-attachments/assets/0025f15a-6d10-46f6-9004-9583be21bbd3"
+        width="520"
         alt="Original article image"
       />
     </td>
-    <td width="55%">
+    <td width="50%">
       <strong>Headline &amp; Byline</strong><br><br>
       • <strong>“AI Doesn’t Lock In Data”… Oracle Introduces an Open Database Strategy [Oracle AI World]</strong><br>
       • <strong>Reporter:</strong> Lee Anna<br>
@@ -20,12 +20,11 @@
 
       <strong>Photo Description</strong><br><br>
       <strong>[Interview] Cetin Ozbutun, Executive Vice President of Autonomous Database Technology at Oracle</strong><br>
-      Cetin Ozbutun, Executive Vice President of Autonomous Database Technology at Oracle, 
+      Cetin Ozbutun, Executive Vice President of Autonomous Database Technology at Oracle,
       speaks with Korean journalists during the “Oracle AI World 2025” event held in Las Vegas, United States.
     </td>
   </tr>
 </table>
-
 
 ## **Original Text (Image)**
 
