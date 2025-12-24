@@ -70,7 +70,7 @@ This approach helps me deliver translations that are **accurate, natural, and de
 
 ## Translation History
 
-My ongoing translation work is archived in the  
+My ongoing translation sample work is archived in the  
 **KR-EN** and **EN-KR** directories of this repository.
 
 - Samples are updated **weekly**
