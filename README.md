@@ -20,8 +20,8 @@ My translation work focuses on:
 
 - **Language Pair**: English ↔ Korean
 
-- **Technical Background (for Technical Translation)**:  
-  Used to accurately interpret terminology, system behavior, and technical context in translation
+- **Technical Background**  
+  Ability to accurately interpret terminology, system behavior, and technical context
 
   - **Information Technology (IT)**  
     Software-related content, system explanations, and general IT documentation
@@ -30,8 +30,8 @@ My translation work focuses on:
     Industrial automation systems, robotics-related documentation, and mechanical-technical materials
 
 - **Translation Experience**:
-  - News articles & journalism
-  - Academic-style essays
+  - News & media translation across politics, technology, and IT sectors
+  - Academic-style reading passages used in standardized exams
   - Video scripts & subtitle translation
 
 ---
@@ -43,7 +43,6 @@ I use AI tools as part of my workflow to support **consistency** and **terminolo
 Here’s how I keep things accurate and trustworthy:
 
 - I first create my own draft based on the original text
-- Then I use AI to compare nuance options and check alternative expressions
 - For unclear or tricky phrases, I run quick Google searches to confirm if certain terms are actually used in real-world contexts
 - Since machine translation isn’t perfect, I never rely on it 100%
 - Every decision — vocabulary, tone, and final phrasing — is manually reviewed and refined for clarity and natural flow

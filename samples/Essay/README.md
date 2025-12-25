@@ -1,6 +1,4 @@
  
- # [Chungman PARK] - Essay
-
 # English
 
 <p align="center">

@@ -1,6 +1,4 @@
  
- # [Chungman PARK] - News Article
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a034325b-94f8-4590-94df-83b69a9501ec" width="800" />
 </p>

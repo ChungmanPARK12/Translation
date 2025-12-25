@@ -1,10 +1,9 @@
-# [Chungman PARK] - Project
 
-# Long-form Subtitle Project (Detail Only)  
+# Project Overview
 
 **Goblin (Episode 1) - k-drama**  
 
-- Full episode **English subtitle translation** (Korean → English)  
+- Full episode (1h 28m) **English subtitle translation** (Korean → English)  
 - Subtitles created using **ATS Scriptway**  
 - Applied professional subtitle constraints:
   - Maximum **40 characters per line**
