@@ -1,7 +1,7 @@
 
 <div align="center">
 
-## Original Text (Image)
+## Original Korean Article (Image)
 
 <img width="600" alt="Original Korean article image" src="https://github.com/user-attachments/assets/0025f15a-6d10-46f6-9004-9583be21bbd3" />
 
