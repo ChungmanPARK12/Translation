@@ -40,31 +40,19 @@
 
 ### English Translation 
 
-Oracle has been focusing not only on data integration  
-but also on enhancing performance.
+문서에 따르면 이들 시설 가운데 두 곳에서는 약 1,250대의 휴대전화를 이용해 약 7만 6천개의 소셜 미디어 계정을 운용하며 사기 행위를 벌인 것으로 드러났다. 
 
-The **“Data Lake Accelerator”** is a serverless technology  
-designed to automatically process large volumes of data in parallel,  
-thereby improving scalability.
-
-The newly introduced feature, **“Exadata Table Caching,”**  
-significantly enhances repeated query performance  
-by preloading and caching data stored in object storage  
-onto Exadata servers.
-
-According to Ozbutun, internal tests confirmed  
-**up to a fivefold improvement in performance**  
-compared to previous benchmarks.
+검찰은 사기 조직인 프린스 그룹의 내부 문서에 피해자와 친밀감을 형성하는 방법에 대한 매뉴얼이 담겨 있었으며, 의심을 사지 않도록 '너무 예쁜 여성'의 프로필 사진은 사용하지 말라는 지침이 포함되어 있었다고 밝혔다. 
 
 ---
 
-## 🔍 Key Expressions & Translation Notes
+### Key Expressions
 
-| Original Expression | English Rendering | Note |
-|--------------------|------------------|------|
-| 대용량 데이터 | large volumes of data | Standard phrasing in IT news and technical writing |
-| 병렬 처리 | process in parallel | Keeps the sentence natural in explanatory contexts |
-| 미리 불러와 캐싱 | preloading and caching | Common wording in database performance discussions |
-| 5배 빠른 성능 향상 | fivefold improvement in performance | Formal, article-appropriate expression |
+- **build rapport with** – (상대와) 신뢰와 친밀감을 형성하다  
+- **look more genuine** – 더 그럴듯해 보이다 / 신뢰감을 주다  
+- **controlled social media accounts** – 소셜미디어 계정을 조직적으로 운영하다  
+- **for scams** – 사기 행위를 목적으로  
+- **internal documents** – 내부 문서  
+- **advised workers not to** – 직원들에게 ~하지 말라고 지침을 내리다  
 
 ---

@@ -21,9 +21,9 @@
 
 **"AI Doesn’t Lock In Data"… Oracle Introduces an Open Database Strategy [Oracle AI World]**
 
-- **Source:** BBC News
+- **Source:** 20 Digital Daily
 - **Reporter:** Lee Anna  
-- **Category:** International / Crime / Cryptocurrency  
+- **Category:** AI / Database / Technology  
 - **Language Direction:** Korean → English
 
 ### Photo Description
@@ -64,13 +64,11 @@ compared to previous benchmarks.
 
 ---
 
-## 🔍 Key Expressions & Translation Notes
+### Key Expressions
 
-| Original Expression | English Rendering | Note |
-|--------------------|------------------|------|
-| 대용량 데이터 | large volumes of data | Standard phrasing in IT news and technical writing |
-| 병렬 처리 | process in parallel | Keeps the sentence natural in explanatory contexts |
-| 미리 불러와 캐싱 | preloading and caching | Common wording in database performance discussions |
-| 5배 빠른 성능 향상 | fivefold improvement in performance | Formal, article-appropriate expression |
+- **대용량 데이터** – large volumes of data  
+- **병렬 처리** – process in parallel  
+- **미리 불러와 캐싱** – preloading and caching  
+- **5배 빠른 성능 향상** – fivefold improvement in performance  
 
 ---
