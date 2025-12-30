@@ -1,5 +1,3 @@
-> *This sample demonstrates the translation of enterprise-level database technology content  
-> for a Korean technology news outlet, focusing on accuracy, clarity, and journalistic tone.*
 
 <div align="center">
 

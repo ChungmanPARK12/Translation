@@ -1,5 +1,3 @@
-> *This sample demonstrates the translation of an international crime and financial regulation news article  
-> from a major UK broadcaster, focusing on accuracy, clarity, and a neutral journalistic tone.*
 
 <div align="center">
 
@@ -50,9 +48,7 @@
 
 - **build rapport with** – (상대와) 신뢰와 친밀감을 형성하다  
 - **look more genuine** – 더 그럴듯해 보이다 / 신뢰감을 주다  
-- **controlled social media accounts** – 소셜미디어 계정을 조직적으로 운영하다  
-- **for scams** – 사기 행위를 목적으로  
-- **internal documents** – 내부 문서  
+- **controlled social media accounts** – 소셜미디어 계정을 조직적으로 운영
 - **advised workers not to** – 직원들에게 ~하지 말라고 지침을 내리다  
 
 ---
