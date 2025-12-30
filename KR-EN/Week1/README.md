@@ -19,12 +19,12 @@
 
 ### Headline 
 
+**"AI Doesn’t Lock In Data"… Oracle Introduces an Open Database Strategy [Oracle AI World]**
+
 - **Source:** BBC News
 - **Reporter:** Lee Anna  
 - **Category:** International / Crime / Cryptocurrency  
 - **Language Direction:** Korean → English
-
-AI Doesn’t Lock In Data”… Oracle Introduces an Open Database Strategy [Oracle AI World]
 
 ### Photo Description
 **[Interview] Cetin Ozbutun, Executive Vice President of Autonomous Database Technology at Oracle**  

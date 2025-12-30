@@ -19,12 +19,12 @@
 
 ### Headline 
 
+**미.영 당국, 약 140억 달러 규모의 비트코인 압수, 사기 혐의자 단속중**
+
 - **Source:** BBC News  
 - **Reporter:** Lauren Turner and Osmond Chia  
 - **Category:** International / Crime / Cryptocurrency  
 - **Language Direction:** Korean → English
-
-미.영 당국, 약 140억 달러 규모의 비트코인 압수, 사기 혐의자 단속중.
 
 ---
 
