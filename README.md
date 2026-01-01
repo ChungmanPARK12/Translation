@@ -55,15 +55,15 @@ This approach helps me deliver translations that are **accurate, natural, and de
 
 - **Essay Translation**  
   Academic and analytical writing samples  
-  → [View Samples](samples/Essay/README.md)
+  → [View Sample](samples/Essay/README.md)
 
 - **News Article Translation**  
   Professional news-style translations  
-  → [View Samples](samples/Article/README.md)
+  → [View Sample](samples/Article/README.md)
 
 - **Video Translation / Subtitles**  
   Scripted and spoken-content translations  
-  → [View Samples](samples/Video/README.md)
+  → [View Sample](samples/Video/README.md)
 
 ---
 
@@ -74,6 +74,10 @@ My ongoing translation sample work is archived in the
 
 - Samples are updated **weekly**
 - Update dates reflect my continuous translation activity
+
+- **English - Korean**  
+  Scripted and spoken-content translations  
+  → [View Sample](samples/Video/README.md)
 
 ---
 
