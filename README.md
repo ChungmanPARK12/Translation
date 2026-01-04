@@ -75,10 +75,6 @@ My ongoing translation sample work is archived in the
 - Samples are updated **weekly**
 - Update dates reflect my continuous translation activity
 
-- **English - Korean**  
-  Scripted and spoken-content translations  
-  → [View Sample](samples/Video/README.md)
-
 ---
 
 
