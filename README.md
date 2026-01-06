@@ -33,7 +33,7 @@ My workflow is simple and controlled:
 - I produce my own draft based on the source text
 - I maintain and reference a **self-built glossary** to ensure consistent terminology
 - For unclear or nuanced expressions, I verify real-world usage through targeted searches
-- Consistent focus on delivering **Accurate**, **Natural**, **Reliable** 
+- Consistent focus on delivering **accurate**, **natural**, **reliable** 
 
 I believe no translation is ever 100% perfect, which is why I rely on repeated **review**, **revision**, and **validation**.
 
