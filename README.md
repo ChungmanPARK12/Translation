@@ -4,18 +4,6 @@
 **Location**: Australia  
 **Email**: parkssi12@gmail.com  
 
----
-
-## Professional Profile
-
-I am a professional **English ↔ Korean translator** specializing in **technical and media-focused content**.
-
-My translation work focuses on:
-- **Clear, precise meaning**
-- **Natural, context-appropriate phrasing for real-world audiences**
-
----
-
 ## Core Translation Skills
 
 - **Language Pair**: English ↔ Korean
@@ -38,16 +26,16 @@ My translation work focuses on:
 
 ## How I Work (Quality & Reliability)
 
-I use AI tools as part of my workflow to support **consistency** and **terminology** checks, while all translation decisions are made manually.
+I use AI tools selectively to support **consistency** and **terminology checks**, while all translation decisions are made manually.
 
-Here’s how I keep things accurate and trustworthy:
+My workflow is simple and controlled:
 
-- I first create my own draft based on the original text
-- For unclear or tricky phrases, I run quick Google searches to confirm if certain terms are actually used in real-world contexts
-- Since machine translation isn’t perfect, I never rely on it 100%
-- Every decision — vocabulary, tone, and final phrasing — is manually reviewed and refined for clarity and natural flow
+- I produce my own draft based on the source text
+- I maintain and reference a **self-built glossary** to ensure consistent terminology
+- For unclear or nuanced expressions, I verify real-world usage through targeted searches
+- Consistent focus on delivering **Accurate**, **Natural**, **Reliable** 
 
-This approach helps me deliver translations that are **accurate, natural, and dependable** for clients.
+I believe no translation is ever 100% perfect, which is why I rely on repeated **review**, **revision**, and **validation**.
 
 ---
 
@@ -55,25 +43,35 @@ This approach helps me deliver translations that are **accurate, natural, and de
 
 - **Essay Translation**  
   Academic and analytical writing samples  
-  → [View Sample](samples/Essay/README.md)
+   [View Sample](samples/Essay/README.md)
 
 - **News Article Translation**  
   Professional news-style translations  
-  → [View Sample](samples/Article/README.md)
+   [View Sample](samples/Article/README.md)
 
 - **Video Translation / Subtitles**  
   Scripted and spoken-content translations  
-  → [View Sample](samples/Video/README.md)
+   [View Sample](samples/Video/README.md)
 
 ---
 
 ## Translation History
 
-My ongoing translation sample work is archived in the  
-**KR-EN** and **EN-KR** directories of this repository
+My ongoing translation samples are organized and archived in this directory.  
+You can browse each history directly through the directories below.
+
+### Language Pairs
+
+- **KR → EN**  
+  [View History](KR-EN)
+
+- **EN → KR**  
+  [View History](EN-KR)
+
+### Update Policy
 
 - Samples are updated **weekly**
-- Update dates reflect my continuous translation activity
+- Updated dates reflect my continuous translation activity
 
 ---
 
