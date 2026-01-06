@@ -1,8 +1,11 @@
-# Chungman PARK  
+# Chungman Park
+
+This portfolio belongs to **Chris Park**, who works professionally as a translator under his original name, **Chungman Park**.
+
 **English ↔ Korean Translator | Technical & Media-Focused**
 
 **Location**: Australia  
-**Email**: parkssi12@gmail.com  
+**Email**: parkssi12@gmail.com
 
 ## Core Translation Skills
 
