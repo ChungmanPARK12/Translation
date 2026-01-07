@@ -65,13 +65,13 @@ You can browse each history directly through the directories below.
 
 ### Language Pairs
 
-- **KR → EN**  
-  [View History](KR-EN)
-
 - **EN → KR**  
   [View History](EN-KR)
 
-### Update Policy
+- **KR → EN**  
+  [View History](KR-EN)
+
+### Update Plan
 
 - Samples are updated **weekly**
 - Updated dates reflect my continuous translation activity
