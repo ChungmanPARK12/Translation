@@ -26,6 +26,7 @@
 
 ### Photo Description
 **[Interview] Cetin Ozbutun, Executive Vice President of Autonomous Database Technology at Oracle**  
+
 Cetin Ozbutun, Executive Vice President of Autonomous Database Technology at Oracle,  
 speaks with Korean journalists during the “Oracle AI World 2025” event,  
 held in Las Vegas, United States.
