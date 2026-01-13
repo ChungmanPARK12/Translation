@@ -1,0 +1,52 @@
+
+<div align="center">
+
+## Original English Article (Image)
+
+<img width="600" alt="Original English article image" src="https://github.com/user-attachments/assets/b04ee1e5-671a-4df2-9ae8-f14447b58cdc" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Korean Translation
+
+</div>
+
+### Headline 
+
+**미국, 러시아에 대한 대규모 제제 발표**
+
+- **Source:** BBC News  
+- **Reporter:** Brend Debusmann Jr  
+- **Category:** International / Politics / Sanctions  
+- **Language Direction:** Korean → English
+
+---
+
+<div align="center">
+
+### Original Text (Image)
+
+<img width="640" height="185" alt="Original English text excerpt" src="https://github.com/user-attachments/assets/d72e32a2-6116-4aa3-9454-2c3e93b13460" />
+
+</div>
+
+---
+
+### English Translation 
+
+베센트의 발언은 나토 사무총장 마르크 뤼테가 백악관을 방문하기 직전에 공개되었으며, 뤼테 총장은 이번 회동에서 트럼프의 '평화 구상'을 어떻게 실현할 수 있을지 논의하길 희망한다고 밝혔다. 
+
+---
+
+### Key Expressions
+
+- **substantial sactions** – 대규모 제제 
+- **look more genuine** – 더 그럴듯해 보이다 / 신뢰감을 주다  
+- **controlled social media accounts** – 소셜미디어 계정을 조직적으로 운영
+- **advised workers not to** – 직원들에게 ~하지 말라고 지침을 내리다  
+
+---
