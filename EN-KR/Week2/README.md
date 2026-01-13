@@ -30,7 +30,7 @@
 
 ### Original Text (Image)
 
-<img width="640" height="185" alt="Original English text excerpt" src="https://github.com/user-attachments/assets/d72e32a2-6116-4aa3-9454-2c3e93b13460" />
+<img width="640" height="185" alt="Original English text excerpt" src="https://github.com/user-attachments/assets/253b6b47-f4b7-4faf-914a-0104a8f78c7e" />
 
 </div>
 
