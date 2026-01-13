@@ -46,6 +46,6 @@
 
 ### Key Expressions
 
-- **substantial sactions** – 대규모 제제 
+- **substantial sanctions** – 대규모 제제 
 
 ---
