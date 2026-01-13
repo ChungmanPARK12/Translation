@@ -22,7 +22,7 @@
 - **Source:** BBC News  
 - **Reporter:** Brend Debusmann Jr  
 - **Category:** International / Politics / Sanctions  
-- **Language Direction:** Korean → English
+- **Language Direction:** English → Korean
 
 ---
 
