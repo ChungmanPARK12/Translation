@@ -22,7 +22,7 @@
 - **Source:** BBC News  
 - **Reporter:** Lauren Turner and Osmond Chia  
 - **Category:** International / Crime / Cryptocurrency  
-- **Language Direction:** Korean → English
+- **Language Direction:** English → Korean
 
 ---
 
