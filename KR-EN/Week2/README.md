@@ -3,7 +3,7 @@
 
 ## Original Korean Article (Image)
 
-<img width="600" alt="Original Korean article image" src="https://github.com/user-attachments/assets/a0c236db-a79e-4755-a651-044e1ff1aca2" />
+<img width="700" alt="Original Korean article image" src="https://github.com/user-attachments/assets/a0c236db-a79e-4755-a651-044e1ff1aca2" />
 
 </div>
 
