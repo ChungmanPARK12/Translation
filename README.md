@@ -1,5 +1,7 @@
 # Chungman Park
 
+<img width="1200" height="700" alt="Image" src="https://github.com/user-attachments/assets/bbc2f8dc-d206-40a9-ab7a-a3bf0ce6d089" />
+
 This portfolio belongs to **Chris Park**, who works professionally as a translator under his original name, **Chungman Park**.
 
 **English ↔ Korean Translator | Technical & Media-Focused**
