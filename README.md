@@ -86,7 +86,6 @@ my translation work developed through structured self-training projects.
 This website was created primarily for **training and skill development**.  
 All translations were completed **manually**, without the use of AI or machine translation.
 
-**Visit Translator Website**  
 👉 https://chungmanpark12.github.io/translator-portfolio/
 
 ---
