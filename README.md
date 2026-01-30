@@ -34,6 +34,7 @@ This portfolio belongs to **Chris Park**, who works professionally as a translat
 I’m not a translator. I’m someone who carries meaning.
 
 I don’t settle for the first acceptable expression, and I don’t let a single phrase slide.
+
 I give language its flavor for the reader, while preserving precision, clarity, and flow.
 
 My workflow is simple and controlled:
