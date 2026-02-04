@@ -24,14 +24,6 @@
 - **Category:** International / Politics / War
 - **Language Direction:** English → Korean
 
-### Description
-
-조흐란 맘다니(34세)가 뉴욕시장 선거에서 승리했다. 
-
-이번 선거는 젊은 유권자들의 강력한 지지를 받았으며, 
-
-미국 민주당의 향후 노선에 대한 논쟁을 불러 일으키기도 했다. 
-
 ---
 
 <div align="center">

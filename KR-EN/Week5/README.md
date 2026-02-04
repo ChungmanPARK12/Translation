@@ -37,7 +37,8 @@
 
 ### English Translation 
 
-AI is no longer simply determining who applied but is now assessing who is the best fit – and even recommending candidates on its own. 
+AI is no longer simply determining who applied but is now assessing who is the best fit – 
+and even recommending candidates on its own. 
 
 Recently, AI has begun to replicate areas once handled exclusively by human recruiters, including strategic judgment, relationship-building, organizational culture assessment, and even sensitivity to subtle interpersonal dynamics. 
 
