@@ -38,6 +38,7 @@
 ### English Translation 
 
 Can AI transform public service? The government plans to introduce a range of AI-based services in areas closely tied to everyday life – such as systems that analyze local agricultural prices to recommend purchases, 
+
 or chatbots in the National Tax Service and police agencies that allow citizens to receive assistance without waiting on the phone.
 
 While the initiative is being welcomed as a positive step, some in the industry caution that its real-world effectiveness remains to be seen. 
