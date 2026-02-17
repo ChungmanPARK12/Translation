@@ -3,9 +3,15 @@
 
 ## Original English Paragraph
 
-According to court documents, the defendant is alleged to have used false identities 
+According to court documents, the defendant is alleged 
+
+to have used false identities
+
 to obtain financial benefits over a prolonged period.
-Authorities stated that the investigation is ongoing and further charges may be laid.
+
+Authorities stated that the investigation is ongoing, 
+
+and further charges may be laid.
 
 </div>
 
