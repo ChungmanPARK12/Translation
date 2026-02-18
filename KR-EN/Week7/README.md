@@ -1,7 +1,7 @@
 
 <div align="center">
 
-## Original English Paragraph
+## Original Korean Paragraph
 
 검찰은 피의자가 허위 신분을 이용해 장기간에 걸쳐 
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-## Korean Translation
+## English Translation
 
 </div>
 
