@@ -39,7 +39,7 @@ in the refusal of the application and could affect future visa eligibility.
 
 ### Key Expressions
 
-- **misleding** - 오해의 소지가 있는
+- **misleading** - 오해의 소지가 있는
 - **refusal of the application** – 비자 신청 거부
 
 ---
